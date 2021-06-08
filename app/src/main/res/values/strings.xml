@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LADM_U4_PRACTICA1_AUTOCONTESTADORA</string>
+    <string name="mensajeA">Hola! Estoy no disponible hasta las 12:00, pero te regreso la llamada</string>
+    <string name="mensajeB">Por favor ya no intentes llamarme!</string>
+</resources>

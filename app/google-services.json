@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "47734459763",
+    "project_id": "ladm-u3-practica1-a5e0e",
+    "storage_bucket": "ladm-u3-practica1-a5e0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47734459763:android:525f622ec1ce272904c906",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_practica1_sql_y_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47734459763-slf5hf7oc2inq48k4l0mj0obdnollrrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkFE6-Xy_0EyOw37Fqicf0SHqy2fOPZiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47734459763-slf5hf7oc2inq48k4l0mj0obdnollrrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47734459763:android:2b9db06bb36df6ef04c906",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_practica2_restaurante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47734459763-slf5hf7oc2inq48k4l0mj0obdnollrrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkFE6-Xy_0EyOw37Fqicf0SHqy2fOPZiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47734459763-slf5hf7oc2inq48k4l0mj0obdnollrrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47734459763:android:4d68e299f733d39104c906",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u4_practica1_autocontestadora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47734459763-slf5hf7oc2inq48k4l0mj0obdnollrrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkFE6-Xy_0EyOw37Fqicf0SHqy2fOPZiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47734459763-slf5hf7oc2inq48k4l0mj0obdnollrrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
